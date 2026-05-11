@@ -48,7 +48,7 @@ uv init my_project
 cd my_project
 ```
 
-或者，也可以在当前文件夹中初始化项目（注意：要先进入当前项目里，再执行init）：
+或者，也可以在当前vs code的项目（即：文件夹）中初始化项目（注意：要先进入当前项目里，再执行init）：
 
 ```bash
 cd my_project
